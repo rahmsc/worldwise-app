@@ -4,9 +4,9 @@ Project was built from the Jonas Schedtmann's Udemy Course "The Ultimate React C
 
 In this project, I learnt to utilize:
 
--React Router
--Sass Modules
--Context API
--Leaflet API and Geolocation
+-React Router <br />
+-Sass Modules <br />
+-Context API <br />
+-Leaflet API and Geolocation <br />
 
 You can view the SPA over at :- https://worldwise-jonas.netlify.app/
